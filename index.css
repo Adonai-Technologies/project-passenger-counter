@@ -36,3 +36,10 @@ button {
     background: darkgreen;
 }
 
+#increment-btn:hover{
+    background-color: #7e4294;
+ }
+
+#save-btn:hover{
+  background-color: #7e4294
+}
